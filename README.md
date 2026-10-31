@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Khizar DABRE 👋
 
-<!--
-**khizer-dabre/khizer-dabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. IT Student | Aspiring Software Developer
+I'm an Information Technology student passionate about programming, software development, and exploring new technologies.
+- 🎓 Pursuing B.Sc. Information Technology
+- 💻 Interested in Software Development
+- 🌱 Currently learning and improving my programming skills
+- 🎯 Goal: Become a professional Software Developer
 
-Here are some ideas to get you started:
+### 🛠️ Areas of Interest
+- Programming
+- Web Development
+- Software Development
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I'm Working Towards
+Building practical projects, strengthening my technical knowledge, and learning new technologies.
+
+### 🤝 Connect With Me
+- GitHub: [@khizar-dabre](https://github.com/khizar-dabre)
+
+⭐ *Always learning. Always building
